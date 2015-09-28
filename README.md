@@ -4,7 +4,7 @@ This repository is for those students that are taking the **MOB4** course at Gen
 
 - **Class Dates:** September 28, 2015 - December 21, 2015
 - **Class Times:** Monday & Wednesday, 6:30pm - 9:30pm
-- **Instructor:** [Tedi Konda](http://twitter/tedi)
+- **Instructor:** [Tedi Konda](http://twitter.com/tedi)
 
 ## Contents
 - Assessments
