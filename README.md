@@ -14,7 +14,7 @@ This repository is for those students that are taking the **MOB4** course at Gen
 - Homework
 	- All completed homework assignments should be saved here
 - Lessons
-	- All slides
+	- All slides and class starter templates
 - Resources
   - Additional class resources and guides
 - Solutions
